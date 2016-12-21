@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">example_zxing</string>
+
+    <string name="msg_bulk_mode_scanned">扫描模式：条码已扫描</string>
+    <string name="msg_default_format">格式</string>
+    <string name="msg_default_meta">元数据</string>
+    <string name="msg_default_status">请将条码置于取景框内扫描。  </string>
+
+</resources>
