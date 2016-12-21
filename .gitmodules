@@ -1,0 +1,4 @@
+[submodule "zxinglite"]
+	path = zxinglite
+	url = git@github.com:liushl/zxing-lite.git
+
